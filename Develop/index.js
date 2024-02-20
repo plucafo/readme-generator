@@ -22,7 +22,7 @@ function promptUser() {
   inquirer
     .prompt(questions)
     .then((data) => {
-      writeToFile('README.md', data);
+      writeToFile('../readme-generator/README.md', data);
     })
     .catch((error) => {
       console.error("Something went wrong:", error);
