@@ -15,6 +15,16 @@ const questions = [
     name: "description",
     message: "Enter project description:",
   },
+  {
+    type: "input",
+    name: "github",
+    message: "Enter your github profile name:",
+  },
+  {
+    type: "input",
+    name: "email",
+    message: "Enter your email address:",
+  },
   // Add more prompts for other information you want to include in the README
 ];
 
@@ -22,7 +32,7 @@ function promptUser() {
   inquirer
     .prompt(questions)
     .then((data) => {
-      writeToFile('../readme-generator/README.md', data);
+      writeToFile('./README.md', data);
     })
     .catch((error) => {
       console.error("Something went wrong:", error);
