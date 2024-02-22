@@ -1,6 +1,8 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+function renderLicenseBadge(license) {
+  license ? console.log(`user selected ${license}`) : console.log(`user selected ${license}`)
+}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -44,7 +46,7 @@ To use the app placeholder text to be replaced later.
 
 ## License
 
-This is where the license will be displayed
+This is where the license will be displayed ${renderLicenseBadge(data.includeLicense)}
 
 ## Contributing
 
