@@ -28,13 +28,13 @@ const questions = [
   {
     type: "confirm",
     name: "includeLicense",
-    message: "Would you like to include a license?:",
+    message: "Would you like to include a license section and badge?:",
   },
   {
     type: "list",
     name: "license",
     message: "Please select your license from the list:",
-    choices: ["Apache", "License2", "License3", "License4"],
+    choices: ["Apache", "GNU", "MIT"],
     when: (data) => data.includeLicense,
   },
   // Add more prompts for other information you want to include in the README

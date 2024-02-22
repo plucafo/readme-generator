@@ -1,10 +1,10 @@
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-# Testing 3 4
+# README GEN TIME
  
 ## Description
 
-test it up yo
+Generating a README that hopefully has an MIT license at the top thist ime
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ To use the app placeholder text to be replaced later.
 
 ## License
 
-This is where the license will be displayed undefined
+This is where the license URL will be displayed
 
 ## Contributing
 
@@ -44,7 +44,7 @@ To test the app placeholder text to be replaced later.
 
 You can reach out with any questions you have:
 
-github profile: [plucafo](https://github.com/plucafo)
+github profile: [plucaf87@gmail.com](https://github.com/plucaf87@gmail.com)
 
-email: [zimbabwe@zombo.zom](emailto:zimbabwe@zombo.zom)
+email: [plucaf87@gmail.com](emailto:plucaf87@gmail.com)
 
