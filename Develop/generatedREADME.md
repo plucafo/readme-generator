@@ -1,10 +1,10 @@
 
   
-# test
+# Professional README Generator
  
 ## Description
 
-testttt
+This app uses the node.js inquirer module to generate a README automatically based on users answers.
 
 ## Table of Contents
 
@@ -24,8 +24,8 @@ testttt
 
 To install the application:
 
-1. Clone the repository `git clone git@github.com:test/test.git`
-2. Navigate to the project directory `cd ./test`
+1. Clone the repository `git clone git@github.com:testprofile/test-project.git`
+2. Navigate to the project directory `cd ./test-project`
 3. Install dependencies `npm i inquirer@v8.2.4`
 4. Run the application `node index.js`
 
@@ -54,9 +54,9 @@ If you'd like to contribute to the project, please follow these steps:
 
 You can reach out with any questions you have:
 
-Github Profile: [test](https://github.com/test)
+Github Profile: [testprofile](https://github.com/testprofile)
 
-Link to Repo: [test](https://github.com/test/test)
+Link to Repo: [test-project](https://github.com/testprofile/test-project)
 
-Email: [test@test.test](emailto:test@test.test)
+Email: [test@test.com](emailto:test@test.com)
 
