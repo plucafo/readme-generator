@@ -1,31 +1,31 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
   
-# README Generator
+# test
  
 ## Description
 
-This will generate a readme automatically
+testttt
 
 ## Table of Contents
 
-- [Installation](#Installation)
+- [Installation](#installation)
 
-- [Usage](#Usage)
+- [Usage](#usage)
 
-- [License](#License)
 
-- [Contributing](#Contributing)
 
-- [Tests](#Tests)
+- [Contributing](#contributing)
 
-- [Questions](#Questions)
+- [Tests](#tests)
+
+- [Questions](#questions)
 
 ## Installation
 
 To install the application:
 
-1. Clone the repository `git clone git@github.com:plucafo/readme-generator.git`
-2. Navigate to the project directory `cd ./readme-generator`
+1. Clone the repository `git clone git@github.com:test/test.git`
+2. Navigate to the project directory `cd ./test`
 3. Install dependencies `npm i inquirer@v8.2.4`
 4. Run the application `node index.js`
 
@@ -33,9 +33,9 @@ To install the application:
 
 To use the README generator app type `node index.js` in your command line interface
 
-## License
 
-[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+
+
 
 ## Contributing
 
@@ -48,15 +48,15 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## Tests
 
-**UPDATE this section with your apps specific testing instructions
+***UPDATE*** this section with your apps specific testing instructions
 
 ## Questions
 
 You can reach out with any questions you have:
 
-Github Profile: [plucafo](https://github.com/plucafo)
+Github Profile: [test](https://github.com/test)
 
-Repository Name: [readme-generator](https://github.com/plucafo/readme-generator)
+Link to Repo: [test](https://github.com/test/test)
 
-Email: [plucaf87@gmail.com](emailto:plucaf87@gmail.com)
+Email: [test@test.test](emailto:test@test.test)
 

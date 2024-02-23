@@ -8,17 +8,17 @@ This application uses the inquirer node.js module to prompt a user and then use 
 
 ## Table of Contents
 
-- [Installation](#Installation)
+- [Installation](#installation)
 
-- [Usage](#Usage)
+- [Usage](#usage)
 
-- [License](#License)
+- [License](#license)
 
-- [Contributing](#Contributing)
+- [Contributing](#contributing)
 
-- [Tests](#Tests)
+- [Tests](#tests)
 
-- [Questions](#Questions)
+- [Questions](#questions)
 
 ## Installation
 
