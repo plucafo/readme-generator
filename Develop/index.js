@@ -22,6 +22,11 @@ const questions = [
   },
   {
     type: "input",
+    name: "githubRepo",
+    message: "Enter the name of the github repository:",
+  },
+  {
+    type: "input",
     name: "email",
     message: "Enter your email address:",
   },
@@ -44,7 +49,7 @@ function promptUser() {
   inquirer
     .prompt(questions)
     .then((data) => {
-      writeToFile("./README.md", data);
+      writeToFile("./generatedREADME.md", data);
     })
     .catch((error) => {
       console.error("Something went wrong:", error);

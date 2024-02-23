@@ -60,11 +60,16 @@ ${data.description}
 
 ## Installation
 
-To install the app placeholder text to be replaced later.
+To install the application:
+
+1. Clone the repository \`git clone git@github.com:${data.github}/${data.githubRepo}.git\`
+2. Navigate to the project directory \`cd ./${data.githubRepo}\`
+3. Install dependencies \`npm i inquirer@v8.2.4\`
+4. Run the application \`node index.js\`
 
 ## Usage
 
-To use the app placeholder text to be replaced later.
+To use the README generator app type \`node index.js\` in your command line interface
 
 ${renderLicenseSection(data.includeLicense)}
 
@@ -72,19 +77,26 @@ ${renderLicenseLink(data.license)}
 
 ## Contributing
 
-To contribute to the app placeholder text that will be replaced later
+If you'd like to contribute to the project, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a pull request
 
 ## Tests
 
-To test the app placeholder text to be replaced later.
+***UPDATE*** this section with your apps specific testing instructions
 
 ## Questions
 
 You can reach out with any questions you have:
 
-github profile: [${data.github}](https://github.com/${data.github})
+Github Profile: [${data.github}](https://github.com/${data.github})
 
-email: [${data.email}](emailto:${data.email})
+Link to Repo: [${data.githubRepo}](https://github.com/${data.github}/${data.githubRepo})
+
+Email: [${data.email}](emailto:${data.email})
 
 `;
 }
