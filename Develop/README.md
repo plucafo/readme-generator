@@ -1,10 +1,10 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
-# README GEN TIME
+# Professional README Generator
  
 ## Description
 
-Generating a README that hopefully has an MIT license at the top thist ime
+This application uses the inquirer node.js module to prompt a user and then use the responses to automatically generate a README file.
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ To use the app placeholder text to be replaced later.
 
 ## License
 
-This is where the license URL will be displayed
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Contributing
 
@@ -44,7 +44,7 @@ To test the app placeholder text to be replaced later.
 
 You can reach out with any questions you have:
 
-github profile: [plucaf87@gmail.com](https://github.com/plucaf87@gmail.com)
+github profile: [plucafo](https://github.com/plucafo)
 
 email: [plucaf87@gmail.com](emailto:plucaf87@gmail.com)
 

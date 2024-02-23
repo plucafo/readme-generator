@@ -54,7 +54,7 @@ function promptUser() {
 function writeToFile(fileName, data) {
   const readmeContent = generateMarkdown(data);
   fs.writeFileSync(fileName, readmeContent);
-  console.log("README.md generated successfully!");
+  console.log(`\x1b[32m${'***README Generated Succesfully!***'}\x1b[0m`)
 }
 
 // TODO: Create a function to initialize app
